@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "merlingsgrace",
+	"version": "${version}",
+	"name": "Merling's Grace",
+	"description": "Adds the Merling's Grace spell.",
+	"authors": [
+		"SamsTheNerd"
+	],
+	"contact": {
+		"sources": "https://github.com/samsthenerd/merlingsgrace"
+	},
+	"license": "LGPL-3.0",
+	"icon": "assets/merlingsgrace/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.samsthenerd.merlingsgrace.MerlingsGrace"
+		]
+	},
+	"mixins": [
+		"merlingsgrace.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"hexcasting": ">=0.11.1-7-pre-636",
+		"origins": ">=1.10.0"
+	}
+}

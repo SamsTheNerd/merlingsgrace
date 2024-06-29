@@ -1,0 +1,362 @@
+[19:49:41] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.1 with Fabric Loader 0.15.11
+[19:49:42] [main/INFO] (FabricLoader) Loading 83 mods:
+	- additionalentityattributes 1.3.0+1.20.0
+	- apoli 2.9.0
+	- calio 1.11.0
+	- cardinal-components 5.2.1
+	- cardinal-components-base 5.2.1
+	- cardinal-components-block 5.2.1
+	- cardinal-components-chunk 5.2.1
+	- cardinal-components-entity 5.2.1
+	- cardinal-components-item 5.2.1
+	- cardinal-components-level 5.2.1
+	- cardinal-components-scoreboard 5.2.1
+	- cardinal-components-world 5.2.1
+	- cloth-basic-math 0.6.1
+	- cloth-config 11.1.106
+	- fabric-api 0.92.2+1.20.1
+	- fabric-api-base 0.4.31+1802ada577
+	- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	- fabric-biome-api-v1 13.0.13+1802ada577
+	- fabric-block-api-v1 1.0.11+1802ada577
+	- fabric-block-view-api-v2 1.0.1+1802ada577
+	- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	- fabric-client-tags-api-v1 1.1.2+1802ada577
+	- fabric-command-api-v1 1.2.34+f71b366f77
+	- fabric-command-api-v2 2.2.13+1802ada577
+	- fabric-commands-v0 0.2.51+df3654b377
+	- fabric-containers-v0 0.1.64+df3654b377
+	- fabric-content-registries-v0 4.0.11+1802ada577
+	- fabric-convention-tags-v1 1.5.5+1802ada577
+	- fabric-crash-report-info-v1 0.2.19+1802ada577
+	- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	- fabric-data-generation-api-v1 12.3.4+1802ada577
+	- fabric-dimensions-v1 2.1.54+1802ada577
+	- fabric-entity-events-v1 1.6.0+1c78457f77
+	- fabric-events-interaction-v0 0.6.2+1802ada577
+	- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	- fabric-game-rule-api-v1 1.0.40+1802ada577
+	- fabric-gametest-api-v1 1.2.13+1802ada577
+	- fabric-item-api-v1 2.1.28+1802ada577
+	- fabric-item-group-api-v1 4.0.12+1802ada577
+	- fabric-key-binding-api-v1 1.0.37+1802ada577
+	- fabric-keybindings-v0 0.2.35+df3654b377
+	- fabric-language-kotlin 1.9.5+kotlin.1.8.22
+	- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	- fabric-loot-api-v2 1.2.1+1802ada577
+	- fabric-loot-tables-v1 1.1.45+9e7660c677
+	- fabric-message-api-v1 5.1.9+1802ada577
+	- fabric-mining-level-api-v1 2.1.50+1802ada577
+	- fabric-model-loading-api-v1 1.0.3+1802ada577
+	- fabric-models-v0 0.4.2+9386d8a777
+	- fabric-networking-api-v1 1.3.11+1802ada577
+	- fabric-networking-v0 0.3.51+df3654b377
+	- fabric-object-builder-api-v1 11.1.3+1802ada577
+	- fabric-particles-v1 1.1.2+1802ada577
+	- fabric-recipe-api-v1 1.0.21+1802ada577
+	- fabric-registry-sync-v0 2.3.3+1802ada577
+	- fabric-renderer-api-v1 3.2.1+1802ada577
+	- fabric-renderer-indigo 1.5.2+85287f9f77
+	- fabric-renderer-registries-v1 3.2.46+df3654b377
+	- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	- fabric-rendering-v0 1.1.49+df3654b377
+	- fabric-rendering-v1 3.0.8+1802ada577
+	- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	- fabric-resource-loader-v0 0.11.10+1802ada577
+	- fabric-screen-api-v1 2.0.8+1802ada577
+	- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	- fabric-sound-api-v1 1.0.13+1802ada577
+	- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabricloader 0.15.11
+	- fiber 0.23.0-2
+	- hexcasting 0.11.1-7-pre-636
+	- java 17
+	- merlingsgrace 1.0.0
+	- minecraft 1.20.1
+	- mixinextras 0.3.5
+	- modmenu 7.1.0
+	- origins 1.10.0
+	- patchouli 1.20.1-84-FABRIC-SNAPSHOT
+	- paucal 0.6.0-pre-118
+	- playerabilitylib 1.8.0
+	- reach-entity-attributes 2.4.0
+	- serialization_hooks 0.4.99999
+[19:49:42] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/Users/samsussman-randall/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/9527e6b0d2449408958fd1302594dc65ec5ade9c/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[19:49:42] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[19:49:42] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_16
+[19:49:42] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[19:49:45] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[19:49:53] [Datafixer Bootstrap/INFO] (Minecraft) 188 Datafixer optimizations took 188 milliseconds
+[19:49:56] [Render thread/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:49:56] [Render thread/ERROR] (Minecraft) Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-4.0.43.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:156) ~[authlib-4.0.43.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:55) ~[authlib-4.0.43.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124) ~[authlib-4.0.43.jar:?]
+	at net.minecraft.client.MinecraftClient.createUserApiService(MinecraftClient.java:733) ~[minecraft-merged-81bed45428-1.20.1-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2.jar:?]
+	at net.minecraft.client.MinecraftClient.<init>(MinecraftClient.java:442) ~[minecraft-merged-81bed45428-1.20.1-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:211) ~[minecraft-merged-81bed45428-1.20.1-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.devlaunchinjector.Main.main(Main.java:86) ~[dev-launch-injector-0.2.1+build.8.jar:?]
+Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[authlib-4.0.43.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-4.0.43.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129) ~[authlib-4.0.43.jar:?]
+	... 9 more
+[19:49:56] [Render thread/INFO] (Minecraft) Setting user: Player388
+[19:49:57] [Render thread/INFO] (Origins) Origins 1.10.0 is initializing. Have fun!
+[19:49:57] [Render thread/INFO] (paucal) Hello PAUCAL! This is FABRIC!
+[19:49:57] [Render thread/INFO] (Apoli) Apoli 2.9.0 has initialized. Ready to power up your game!
+[19:49:58] [PAUCAL Contributors Loading Thread/INFO] (paucal) Loaded 49 contributors and 6 headpat sounds from Github
+[19:49:58] [Render thread/ERROR] (Minecraft) No data fixer registered for hexcasting:wall_scroll
+[19:49:58] [Worker-Main-1/INFO] (Mod Menu/Update Checker) Checking mod updates...
+[19:49:59] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[19:49:59] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.1 SNAPSHOT
+[19:50:01] [Render thread/WARN] (FabricLoader/Mixin) Injection warning: LVT in net/minecraft/client/render/WorldRenderer::render(Lnet/minecraft/client/util/math/MatrixStack;FJZLnet/minecraft/client/render/Camera;Lnet/minecraft/client/render/GameRenderer;Lnet/minecraft/client/render/LightmapTextureManager;Lorg/joml/Matrix4f;)V has incompatible changes at opcode 220 in callback fabricasting.mixins.json:client.FabricLevelRendererMixin from mod hexcasting->@Inject::snagFrustumFromLevelRenderer(Lnet/minecraft/client/util/math/MatrixStack;FJZLnet/minecraft/client/render/Camera;Lnet/minecraft/client/render/GameRenderer;Lnet/minecraft/client/render/LightmapTextureManager;Lorg/joml/Matrix4f;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lnet/minecraft/util/profiler/Profiler;ZLnet/minecraft/util/math/Vec3d;DDDLorg/joml/Matrix4f;ZLnet/minecraft/client/render/Frustum;)V.
+ Expected: [Lnet/minecraft/util/profiler/Profiler;, Z, Lnet/minecraft/util/math/Vec3d;, D, D, D, Lorg/joml/Matrix4f;, Z, Lnet/minecraft/client/render/Frustum;]
+    Found: [Lnet/minecraft/util/profiler/Profiler;, Lnet/minecraft/util/math/Vec3d;, D, D, D, Lorg/joml/Matrix4f;, Z, Lnet/minecraft/client/render/Frustum;]
+Available: [Lnet/minecraft/util/profiler/Profiler;, Lnet/minecraft/util/math/Vec3d;, D, D, D, Lorg/joml/Matrix4f;, Z, Lnet/minecraft/client/render/Frustum;]
+[19:50:02] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric (fabric-gametest-api-v1, cardinal-components, fabric-lifecycle-events-v1, fabric-entity-events-v1, fabric-transfer-api-v1, fabric-renderer-registries-v1, fabric-dimensions-v1, cardinal-components-base, fabric-mining-level-api-v1, fabric-rendering-data-attachment-v1, modmenu, fabric-block-view-api-v2, fabric-events-lifecycle-v0, fabric-transitive-access-wideners-v1, fabric-command-api-v2, fabric-biome-api-v1, fabric-screen-handler-api-v1, fabricloader, fabric-rendering-fluids-v1, fabric-loot-tables-v1, fabric-block-api-v1, fabric-recipe-api-v1, cloth-config, fabric-containers-v0, fabric-object-builder-api-v1, fabric-events-interaction-v0, cardinal-components-scoreboard, fabric-key-binding-api-v1, calio, patchouli, cardinal-components-block, playerabilitylib, fabric-resource-loader-v0, fabric-networking-api-v1, fabric-item-group-api-v1, fabric-registry-sync-v0, fabric-rendering-v1, cardinal-components-chunk, origins, fabric-model-loading-api-v1, fabric-particles-v1, fabric-data-attachment-api-v1, paucal, cardinal-components-entity, fabric-client-tags-api-v1, cardinal-components-item, apoli, fabric-content-registries-v0, fabric-api, fabric-screen-api-v1, merlingsgrace, cardinal-components-world, fabric-api-base, fabric-networking-v0, fabric-game-rule-api-v1, fabric-renderer-api-v1, fabric-rendering-v0, additionalentityattributes, serialization_hooks, fabric-data-generation-api-v1, hexcasting, fabric-keybindings-v0, fabric-api-lookup-api-v1, fabric-loot-api-v2, fabric-language-kotlin, fabric-commands-v0, fabric-blockrenderlayer-v1, fabric-command-api-v1, fabric-crash-report-info-v1, cardinal-components-level, fabric-message-api-v1, fabric-models-v0, reach-entity-attributes, fabric-convention-tags-v1, fabric-item-api-v1, fabric-resource-conditions-api-v1, fabric-renderer-indigo, fabric-sound-api-v1)
+[19:50:02] [Render thread/ERROR] (Minecraft) Registry 'serialization_hooks:value_deserializers' was empty after loading
+[19:50:02] [Worker-Main-4/INFO] (Minecraft) Found unifont_all_no_pua-15.0.06.hex, loading
+[19:50:02] [Realms Notification Availability checker #1/INFO] (Minecraft) Could not authorize you against Realms server: Invalid session id
+[19:50:05] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:item.goat_horn.play
+[19:50:05] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[19:50:05] [Render thread/INFO] (Minecraft) OpenAL initialized on device CoreAudio Default
+[19:50:05] [Render thread/INFO] (Minecraft) Sound engine started
+[19:50:05] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[19:50:05] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[19:50:05] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:50:05] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:50:05] [Render thread/INFO] (Minecraft) Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[19:50:05] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:50:05] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[19:50:05] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:50:05] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:50:05] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[19:50:05] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[19:50:05] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:50:05] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:50:05] [Render thread/INFO] (patchouli) BookContentResourceListenerLoader preloaded 91 jsons
+[19:50:23] [Render thread/INFO] (FabricRegistrySync) [fabric-registry-sync] Loaded registry data [file 1/4]
+[19:50:24] [Render thread/INFO] (Minecraft) Loaded 8 recipes
+[19:50:24] [Render thread/INFO] (Minecraft) Loaded 1392 advancements
+[19:50:24] [Render thread/INFO] (Apoli) Finished loading powers from data files. Registry contains 76 powers.
+[19:50:24] [Render thread/INFO] (Origins) Finished loading origins from data files. Registry contains 11 origins.
+[19:50:24] [Render thread/INFO] (Origins) Trying to read layer file: origins:origin
+[19:50:24] [Render thread/INFO] (Origins) Finished loading origin layers from data files. Read 1 layers.
+[19:50:24] [Render thread/INFO] (Apoli) Loaded 0 global power sets.
+[19:50:24] [Render thread/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 64 new biomes in 1.562 ms
+[19:50:24] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.20.1
+[19:50:24] [Server thread/INFO] (Minecraft) Generating keypair
+[19:50:26] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[19:50:29] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[19:50:29] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[19:50:29] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[19:50:29] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[19:50:29] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[19:50:29] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[19:50:29] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[19:50:30] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[19:50:30] [Render thread/INFO] (Minecraft) Preparing spawn area: 16%
+[19:50:31] [Render thread/INFO] (Minecraft) Preparing spawn area: 68%
+[19:50:31] [Render thread/INFO] (Minecraft) Time elapsed: 4766 ms
+[19:50:31] [Server thread/INFO] (hexcasting) We're on the server! Loaded 154 regular actions, 14 per-world actions, and 2 special handlers
+[19:50:31] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[19:50:31] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
+[19:50:32] [Server thread/INFO] (Minecraft) Player388[local:E:9ea4402f] logged in with entity id 67 at (24.347779223988663, 91.0, -27.39260484001903)
+[19:50:32] [Server thread/INFO] (Minecraft) Player388 joined the game
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:tuck] which has same signature as ResourceKey[hexcasting:action / hexcasting:tuck], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:potion/levitation] which has same signature as ResourceKey[hexcasting:action / hexcasting:potion/levitation], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:duplicate] which has same signature as ResourceKey[hexcasting:action / hexcasting:duplicate], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / merlingsgrace:merlingsgrace] which has same signature as ResourceKey[hexcasting:action / merlingsgrace:merlingsgrace], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:zone_entity/not_animal] which has same signature as ResourceKey[hexcasting:action / hexcasting:zone_entity/not_animal], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:colorize] which has same signature as ResourceKey[hexcasting:action / hexcasting:colorize], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:const/true] which has same signature as ResourceKey[hexcasting:action / hexcasting:const/true], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:get_entity/item] which has same signature as ResourceKey[hexcasting:action / hexcasting:get_entity/item], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:const/vec/nx] which has same signature as ResourceKey[hexcasting:action / hexcasting:const/vec/nx], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:for_each] which has same signature as ResourceKey[hexcasting:action / hexcasting:for_each], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:zone_entity/player] which has same signature as ResourceKey[hexcasting:action / hexcasting:zone_entity/player], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:get_entity/player] which has same signature as ResourceKey[hexcasting:action / hexcasting:get_entity/player], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:2dup] which has same signature as ResourceKey[hexcasting:action / hexcasting:2dup], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:zone_entity/animal] which has same signature as ResourceKey[hexcasting:action / hexcasting:zone_entity/animal], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:potion/slowness] which has same signature as ResourceKey[hexcasting:action / hexcasting:potion/slowness], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:arcsin] which has same signature as ResourceKey[hexcasting:action / hexcasting:arcsin], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:print] which has same signature as ResourceKey[hexcasting:action / hexcasting:print], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:duplicate_n] which has same signature as ResourceKey[hexcasting:action / hexcasting:duplicate_n], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:writable] which has same signature as ResourceKey[hexcasting:action / hexcasting:writable], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:eval] which has same signature as ResourceKey[hexcasting:action / hexcasting:eval], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:sin] which has same signature as ResourceKey[hexcasting:action / hexcasting:sin], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:add] which has same signature as ResourceKey[hexcasting:action / hexcasting:add], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:const/double/pi] which has same signature as ResourceKey[hexcasting:action / hexcasting:const/double/pi], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:logarithm] which has same signature as ResourceKey[hexcasting:action / hexcasting:logarithm], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:modulo] which has same signature as ResourceKey[hexcasting:action / hexcasting:modulo], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:sub] which has same signature as ResourceKey[hexcasting:action / hexcasting:sub], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:edify] which has same signature as ResourceKey[hexcasting:action / hexcasting:edify], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:zone_entity/not_monster] which has same signature as ResourceKey[hexcasting:action / hexcasting:zone_entity/not_monster], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:write] which has same signature as ResourceKey[hexcasting:action / hexcasting:write], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:break_block] which has same signature as ResourceKey[hexcasting:action / hexcasting:break_block], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:arctan] which has same signature as ResourceKey[hexcasting:action / hexcasting:arctan], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:construct_vec] which has same signature as ResourceKey[hexcasting:action / hexcasting:construct_vec], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:const/double/tau] which has same signature as ResourceKey[hexcasting:action / hexcasting:const/double/tau], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:circle/bounds/max] which has same signature as ResourceKey[hexcasting:action / hexcasting:circle/bounds/max], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:rotate_reverse] which has same signature as ResourceKey[hexcasting:action / hexcasting:rotate_reverse], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:flight/time] which has same signature as ResourceKey[hexcasting:action / hexcasting:flight/time], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:equals] which has same signature as ResourceKey[hexcasting:action / hexcasting:equals], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:index] which has same signature as ResourceKey[hexcasting:action / hexcasting:index], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:cycle_variant] which has same signature as ResourceKey[hexcasting:action / hexcasting:cycle_variant], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:rotate] which has same signature as ResourceKey[hexcasting:action / hexcasting:rotate], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:zone_entity/living] which has same signature as ResourceKey[hexcasting:action / hexcasting:zone_entity/living], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:destroy_water] which has same signature as ResourceKey[hexcasting:action / hexcasting:destroy_water], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:get_entity/living] which has same signature as ResourceKey[hexcasting:action / hexcasting:get_entity/living], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:const/vec/0] which has same signature as ResourceKey[hexcasting:action / hexcasting:const/vec/0], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:not_equals] which has same signature as ResourceKey[hexcasting:action / hexcasting:not_equals], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:explode/fire] which has same signature as ResourceKey[hexcasting:action / hexcasting:explode/fire], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:const/vec/nz] which has same signature as ResourceKey[hexcasting:action / hexcasting:const/vec/nz], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:const/vec/px] which has same signature as ResourceKey[hexcasting:action / hexcasting:const/vec/px], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:eval/cc] which has same signature as ResourceKey[hexcasting:action / hexcasting:eval/cc], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:craft/trinket] which has same signature as ResourceKey[hexcasting:action / hexcasting:craft/trinket], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:get_entity_height] which has same signature as ResourceKey[hexcasting:action / hexcasting:get_entity_height], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:akashic/write] which has same signature as ResourceKey[hexcasting:action / hexcasting:akashic/write], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:zone_entity/item] which has same signature as ResourceKey[hexcasting:action / hexcasting:zone_entity/item], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:halt] which has same signature as ResourceKey[hexcasting:action / hexcasting:halt], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:const/null] which has same signature as ResourceKey[hexcasting:action / hexcasting:const/null], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:erase] which has same signature as ResourceKey[hexcasting:action / hexcasting:erase], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:get_entity_velocity] which has same signature as ResourceKey[hexcasting:action / hexcasting:get_entity_velocity], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:writable/entity] which has same signature as ResourceKey[hexcasting:action / hexcasting:writable/entity], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:sentinel/get_pos] which has same signature as ResourceKey[hexcasting:action / hexcasting:sentinel/get_pos], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:greater] which has same signature as ResourceKey[hexcasting:action / hexcasting:greater], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:slice] which has same signature as ResourceKey[hexcasting:action / hexcasting:slice], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:circle/bounds/min] which has same signature as ResourceKey[hexcasting:action / hexcasting:circle/bounds/min], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:not] which has same signature as ResourceKey[hexcasting:action / hexcasting:not], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:deconstruct] which has same signature as ResourceKey[hexcasting:action / hexcasting:deconstruct], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:or] which has same signature as ResourceKey[hexcasting:action / hexcasting:or], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:less] which has same signature as ResourceKey[hexcasting:action / hexcasting:less], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:tan] which has same signature as ResourceKey[hexcasting:action / hexcasting:tan], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:construct] which has same signature as ResourceKey[hexcasting:action / hexcasting:construct], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:empty_list] which has same signature as ResourceKey[hexcasting:action / hexcasting:empty_list], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:write/local] which has same signature as ResourceKey[hexcasting:action / hexcasting:write/local], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:abs] which has same signature as ResourceKey[hexcasting:action / hexcasting:abs], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:over] which has same signature as ResourceKey[hexcasting:action / hexcasting:over], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:splat] which has same signature as ResourceKey[hexcasting:action / hexcasting:splat], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:potion/wither] which has same signature as ResourceKey[hexcasting:action / hexcasting:potion/wither], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:coerce_axial] which has same signature as ResourceKey[hexcasting:action / hexcasting:coerce_axial], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:potion/poison] which has same signature as ResourceKey[hexcasting:action / hexcasting:potion/poison], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:get_caster] which has same signature as ResourceKey[hexcasting:action / hexcasting:get_caster], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:raycast/entity] which has same signature as ResourceKey[hexcasting:action / hexcasting:raycast/entity], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:mul] which has same signature as ResourceKey[hexcasting:action / hexcasting:mul], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:stack_len] which has same signature as ResourceKey[hexcasting:action / hexcasting:stack_len], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:swap] which has same signature as ResourceKey[hexcasting:action / hexcasting:swap], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:raycast] which has same signature as ResourceKey[hexcasting:action / hexcasting:raycast], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:unappend] which has same signature as ResourceKey[hexcasting:action / hexcasting:unappend], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:append] which has same signature as ResourceKey[hexcasting:action / hexcasting:append], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:replace] which has same signature as ResourceKey[hexcasting:action / hexcasting:replace], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:raycast/axis] which has same signature as ResourceKey[hexcasting:action / hexcasting:raycast/axis], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:arccos] which has same signature as ResourceKey[hexcasting:action / hexcasting:arccos], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:sentinel/create] which has same signature as ResourceKey[hexcasting:action / hexcasting:sentinel/create], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:read] which has same signature as ResourceKey[hexcasting:action / hexcasting:read], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:flight/range] which has same signature as ResourceKey[hexcasting:action / hexcasting:flight/range], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:zone_entity/not_item] which has same signature as ResourceKey[hexcasting:action / hexcasting:zone_entity/not_item], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:akashic/read] which has same signature as ResourceKey[hexcasting:action / hexcasting:akashic/read], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:floor] which has same signature as ResourceKey[hexcasting:action / hexcasting:floor], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:entity_pos/eye] which has same signature as ResourceKey[hexcasting:action / hexcasting:entity_pos/eye], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:unique] which has same signature as ResourceKey[hexcasting:action / hexcasting:unique], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:cos] which has same signature as ResourceKey[hexcasting:action / hexcasting:cos], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:xor] which has same signature as ResourceKey[hexcasting:action / hexcasting:xor], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:deconstruct_vec] which has same signature as ResourceKey[hexcasting:action / hexcasting:deconstruct_vec], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:get_entity] which has same signature as ResourceKey[hexcasting:action / hexcasting:get_entity], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:swizzle] which has same signature as ResourceKey[hexcasting:action / hexcasting:swizzle], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:readable] which has same signature as ResourceKey[hexcasting:action / hexcasting:readable], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:zone_entity/not_player] which has same signature as ResourceKey[hexcasting:action / hexcasting:zone_entity/not_player], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:less_eq] which has same signature as ResourceKey[hexcasting:action / hexcasting:less_eq], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:get_entity/animal] which has same signature as ResourceKey[hexcasting:action / hexcasting:get_entity/animal], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:zone_entity/monster] which has same signature as ResourceKey[hexcasting:action / hexcasting:zone_entity/monster], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:const/vec/pz] which has same signature as ResourceKey[hexcasting:action / hexcasting:const/vec/pz], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:remove_from] which has same signature as ResourceKey[hexcasting:action / hexcasting:remove_from], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:potion/weakness] which has same signature as ResourceKey[hexcasting:action / hexcasting:potion/weakness], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:craft/artifact] which has same signature as ResourceKey[hexcasting:action / hexcasting:craft/artifact], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:ceil] which has same signature as ResourceKey[hexcasting:action / hexcasting:ceil], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:reverse] which has same signature as ResourceKey[hexcasting:action / hexcasting:reverse], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:div] which has same signature as ResourceKey[hexcasting:action / hexcasting:div], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:if] which has same signature as ResourceKey[hexcasting:action / hexcasting:if], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:bonemeal] which has same signature as ResourceKey[hexcasting:action / hexcasting:bonemeal], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:bool_coerce] which has same signature as ResourceKey[hexcasting:action / hexcasting:bool_coerce], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:write/entity] which has same signature as ResourceKey[hexcasting:action / hexcasting:write/entity], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:conjure_light] which has same signature as ResourceKey[hexcasting:action / hexcasting:conjure_light], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:pow] which has same signature as ResourceKey[hexcasting:action / hexcasting:pow], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:const/vec/ny] which has same signature as ResourceKey[hexcasting:action / hexcasting:const/vec/ny], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:ignite] which has same signature as ResourceKey[hexcasting:action / hexcasting:ignite], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:explode] which has same signature as ResourceKey[hexcasting:action / hexcasting:explode], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:sentinel/destroy] which has same signature as ResourceKey[hexcasting:action / hexcasting:sentinel/destroy], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:const/double/e] which has same signature as ResourceKey[hexcasting:action / hexcasting:const/double/e], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:read/local] which has same signature as ResourceKey[hexcasting:action / hexcasting:read/local], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:read/entity] which has same signature as ResourceKey[hexcasting:action / hexcasting:read/entity], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:create_water] which has same signature as ResourceKey[hexcasting:action / hexcasting:create_water], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:blink] which has same signature as ResourceKey[hexcasting:action / hexcasting:blink], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:add_motion] which has same signature as ResourceKey[hexcasting:action / hexcasting:add_motion], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:singleton] which has same signature as ResourceKey[hexcasting:action / hexcasting:singleton], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:beep] which has same signature as ResourceKey[hexcasting:action / hexcasting:beep], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:place_block] which has same signature as ResourceKey[hexcasting:action / hexcasting:place_block], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:sentinel/wayfind] which has same signature as ResourceKey[hexcasting:action / hexcasting:sentinel/wayfind], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:fisherman/copy] which has same signature as ResourceKey[hexcasting:action / hexcasting:fisherman/copy], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:random] which has same signature as ResourceKey[hexcasting:action / hexcasting:random], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:greater_eq] which has same signature as ResourceKey[hexcasting:action / hexcasting:greater_eq], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:entity_pos/foot] which has same signature as ResourceKey[hexcasting:action / hexcasting:entity_pos/foot], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:arctan2] which has same signature as ResourceKey[hexcasting:action / hexcasting:arctan2], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:craft/cypher] which has same signature as ResourceKey[hexcasting:action / hexcasting:craft/cypher], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:readable/entity] which has same signature as ResourceKey[hexcasting:action / hexcasting:readable/entity], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:index_of] which has same signature as ResourceKey[hexcasting:action / hexcasting:index_of], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:const/vec/py] which has same signature as ResourceKey[hexcasting:action / hexcasting:const/vec/py], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:recharge] which has same signature as ResourceKey[hexcasting:action / hexcasting:recharge], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:get_entity/monster] which has same signature as ResourceKey[hexcasting:action / hexcasting:get_entity/monster], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:extinguish] which has same signature as ResourceKey[hexcasting:action / hexcasting:extinguish], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:zone_entity/not_living] which has same signature as ResourceKey[hexcasting:action / hexcasting:zone_entity/not_living], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:zone_entity] which has same signature as ResourceKey[hexcasting:action / hexcasting:zone_entity], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:circle/impetus_dir] which has same signature as ResourceKey[hexcasting:action / hexcasting:circle/impetus_dir], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:conjure_block] which has same signature as ResourceKey[hexcasting:action / hexcasting:conjure_block], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:and] which has same signature as ResourceKey[hexcasting:action / hexcasting:and], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:fisherman] which has same signature as ResourceKey[hexcasting:action / hexcasting:fisherman], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:get_entity_look] which has same signature as ResourceKey[hexcasting:action / hexcasting:get_entity_look], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:circle/impetus_pos] which has same signature as ResourceKey[hexcasting:action / hexcasting:circle/impetus_pos], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:last_n_list] which has same signature as ResourceKey[hexcasting:action / hexcasting:last_n_list], overriding it.
+[19:50:32] [Render thread/WARN] (hexcasting) Inserted ResourceKey[hexcasting:action / hexcasting:const/false] which has same signature as ResourceKey[hexcasting:action / hexcasting:const/false], overriding it.
+[19:50:32] [Render thread/INFO] (hexcasting) We're on the client! Loaded 154 regular actions, 14 per-world actions, and 2 special handlers
+[19:50:32] [Server thread/INFO] (Minecraft) Player388 has made the advancement [Hexcasting Research]
+[19:50:33] [Render thread/INFO] (Minecraft) [System] [CHAT] Player388 has made the advancement [Hexcasting Research]
+[19:50:33] [Render thread/INFO] (Minecraft) Loaded 26 advancements
+[19:50:33] [Render thread/INFO] (patchouli) BookContentResourceListenerLoader: Files found in 267.1 μs
+[19:50:33] [Render thread/WARN] (patchouli) Queried for unknown config flag: hexcasting:any_interop
+[19:50:33] [Render thread/INFO] (patchouli) BookContentResourceListenerLoader: Files found in 401.4 μs
+[19:50:33] [Render thread/WARN] (patchouli) Queried for unknown config flag: hexcasting:any_interop
+[19:50:33] [Render thread/INFO] (patchouli) BookContentResourceListenerLoader: Files found in 228.1 μs
+[19:50:41] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[19:50:41] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[Test]'/minecraft:overworld
+[19:50:41] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[Test]'/minecraft:the_nether
+[19:50:41] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[Test]'/minecraft:the_end
+[19:51:23] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[19:51:23] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[Test]'/minecraft:overworld
+[19:51:23] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[Test]'/minecraft:the_nether
+[19:51:23] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[Test]'/minecraft:the_end
+[19:52:11] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[19:52:11] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[Test]'/minecraft:overworld
+[19:52:11] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[Test]'/minecraft:the_nether
+[19:52:11] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[Test]'/minecraft:the_end
+[19:52:17] [Server thread/INFO] (Minecraft) Player388 lost connection: Disconnected
+[19:52:17] [Server thread/INFO] (Minecraft) Player388 left the game
+[19:52:17] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
+[19:52:17] [Server thread/INFO] (Minecraft) Stopping server
+[19:52:17] [Server thread/INFO] (Minecraft) Saving players
+[19:52:17] [Server thread/INFO] (Minecraft) Saving worlds
+[19:52:18] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[Test]'/minecraft:overworld
+[19:52:18] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[Test]'/minecraft:the_nether
+[19:52:18] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[Test]'/minecraft:the_end
+[19:52:18] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (Test): All chunks are saved
+[19:52:18] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:52:18] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:52:18] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
+[19:52:19] [Render thread/INFO] (Minecraft) Stopping!
